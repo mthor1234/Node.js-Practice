@@ -1,0 +1,19 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "This is a very simple web server",
+  "main": "Webserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mthor1234/Learn-Programming-for-Free-Tutorial.git"
+  },
+  "author": "MJ Thornton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mthor1234/Learn-Programming-for-Free-Tutorial/issues"
+  },
+  "homepage": "https://github.com/mthor1234/Learn-Programming-for-Free-Tutorial#readme"
+}
